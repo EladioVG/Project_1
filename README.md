@@ -1,6 +1,7 @@
 # Project_1
-Proyecto enfocado a demostrar habilidades de limpieza de datos y poder generar conclusiones en base a resultados
-Tareas realizadas 
+Proyecto enfocado a demostrar habilidades de limpieza de datos y poder generar conclusiones orientadas al apoyo de la toma de decisiones en la empresa
+Tareas realizadas:
 limpieza de datos
+enriquecimiento de datos
 visualizacion
-conclusiones de negocio
+pruebas estadísticas
