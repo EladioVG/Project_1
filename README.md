@@ -1,4 +1,4 @@
-Objetivo del Proyecto
+Objetivo del Proyecto\
 Identificar cuál de los planes prepago (Surf o Ultimate) genera mayores ingresos para optimizar decisiones de negocio
 y presupuesto publicitario.
 Contexto de Negocio
