@@ -1,6 +1,6 @@
 Objetivo del Proyecto\
 Identificar cuál de los planes prepago (Surf o Ultimate) genera mayores ingresos para optimizar decisiones de negocio
-y presupuesto publicitario.\
+y presupuesto publicitario.
 
 Contexto de Negocio\
 Se analizó una muestra de 500 clientes considerando uso de llamadas, SMS, consumo de datos, plan contratado y
@@ -13,14 +13,14 @@ Proceso de Trabajo\
 • Búsqueda de inconsistencias y duplicados\
 • Limpieza y enriquecimiento de datos\
 • Cálculo de consumo e ingresos por cliente\
-• Comparación entre planes y análisis estadístico\
+• Comparación entre planes y análisis estadístico
 
 Datasets utilizados\
 megaline_calls.csv\
 megaline_internet.csv\
 megaline_messages.csv\
 megaline_plans.csv\
-megaline_users.csv\
+megaline_users.csv
 
 Preguntas de negocio respondidas\
 • ¿Qué plan genera más ingresos?\
