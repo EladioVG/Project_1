@@ -69,5 +69,3 @@ Respecto a los planes ofrecidos, se observa que Surf es el plan con mayor acepta
 
 Los resultados sugieren que el plan Surf representa una alternativa más atractiva para la mayoría de los clientes debido a su menor costo mensual. Aun cuando ofrece límites inferiores de minutos, mensajes e internet en comparación con Ultimate, el análisis indica que estos beneficios adicionales no son aprovechados por una parte importante de los usuarios, lo que podría explicar la mayor preferencia por el plan Surf.
 
-En conjunto, las gráficas, el análisis exploratorio y las pruebas estadísticas respaldan la existencia de diferencias significativas en el comportamiento de los usuarios y en los ingresos generados por cada plan. Estos hallazgos pueden servir como base para futuras decisiones relacionadas con la estrategia comercial y la optimización de la oferta de planes de la empresa.
-
